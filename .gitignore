@@ -1,7 +1,9 @@
 [Ll]ibrary/
+[ProjectBase]/[Tt]emp/
 [Tt]emp/
+[ProjectBase]/[Oo]bj/
 [Oo]bj/
-[Bb]uild/
+[ProjectBase]/[Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
 
